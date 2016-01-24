@@ -1,6 +1,6 @@
 # React Boiler plate.
 
-A simple Todo App built with React and Redux.
+Converting my Redux app to Rebase implementation.
 
 ## HOW TO.
 npm install
