@@ -1,4 +1,4 @@
-# React Boiler plate.
+# TODO REBASE
 
 Converting my Redux app to Rebase implementation.
 
